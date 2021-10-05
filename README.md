@@ -1,2 +1,2 @@
 # Prebootcamp
- Practice
+ JS Practice
